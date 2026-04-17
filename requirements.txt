@@ -2,5 +2,3 @@ streamlit
 httpx
 python-dotenv
 geopy==2.4.1
-mcp
-mcp-use
