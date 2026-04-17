@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+      "user-weather-server": {
+        "command": "C:\\Users\\DELL\\anaconda3\\python.exe",
+        "args": ["E:\\MCP\\mcp_crashcourse\\server\\weather.py"]
+      }
+    }
+  }
